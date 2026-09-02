@@ -50,6 +50,9 @@ Tradiitonal Baquette has the highest quantity sold followed by Croissant.
 # Dashboard
 The interactive dashboard reveals a visual overview of Bakery sales performance and allows easier exploration of sales and quantity trends.
 
+# Dashboard
+![Bakery Sales Dashboard] (dashboard.jpg)
+
 # Author
 OYENIYI OYINLOYE MARY
 Data Analyst | Aspiring Data Scientist.
